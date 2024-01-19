@@ -1,11 +1,11 @@
 # bzml_manuscript
 
-# Title TBD
+# Quantifying the fitness effects of resisance alleles with and without anthelmintic selection pressure using Caenorhabditis elegans
 
-Data, analysis scripts, and results from the article " TBD"
+Data, analysis scripts, and results from the article " Quantifying the fitness effects of resisance alleles with and without anthelmintic selection pressure using Caenorhabditis elegans"
 
 ## Abstract
-Insert text
+TBD
 
 ## Code
 ### Required software: 
